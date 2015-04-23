@@ -49,7 +49,7 @@ CSS Critic checks your current layout constantly against a reference image you h
     });
     ```
 
-3. Open the RegressionRunner.html in Firefox for the first time and save the resulting image as future reference.
+3. Open the RegressionRunner.html in the supported browser for the first time and save the resulting image as future reference.
 
 4. Re-run the RegressionRunner.html and see your test passing. Congratulations.
 
